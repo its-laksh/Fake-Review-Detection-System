@@ -55,7 +55,7 @@ smartreview-ai-platform/
 ├── requirements.txt
 ├── README.md
 └── data/
-    └── reviews.csv
+    └── fake_reviews_train.csv
 ```
 
 ---
