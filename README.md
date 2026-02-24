@@ -1,4 +1,4 @@
-# 🧠 SmartReview AI Platform
+# 🧠  Fake Review Detection System  
 
 ### Enterprise Category-Based Fake Review Detection System  
 AI • NLP • Machine Learning • Streamlit Dashboard
@@ -65,13 +65,13 @@ smartreview-ai-platform/
 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/smartreview-ai-platform.git
+git clone https://github.com/its-laksh/Fake-Review-Detection-System
 ```
 
 2️⃣ Move into project folder
 
 ```
-cd smartreview-ai-platform
+Fake-Review-Detection-System
 ```
 
 3️⃣ Install dependencies
