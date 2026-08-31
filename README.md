@@ -1,4 +1,4 @@
-# 🧠  Fake Review Detection System  
+# 🧠  SmartReview AI-Fake Review Detection System  
 
 ### Enterprise Category-Based Fake Review Detection System  
 AI • NLP • Machine Learning • Streamlit Dashboard
